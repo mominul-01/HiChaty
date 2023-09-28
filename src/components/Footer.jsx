@@ -1,4 +1,3 @@
-import React from 'react';
 import manageby from '../assets/Group 88.png';
 import facebook from '../assets/Facebook.svg';
 import instagram from '../assets/Instagram.svg';
@@ -33,6 +32,9 @@ const Footer = () => {
                 <a className='pr-[30px]' href=""><img src={youTube} alt="" /></a>
                 <a className='pr-[30px]' href=""><img src={linkedIN} alt="" /></a>
             </div>
+
+
+
         </div>
     );
 };
